@@ -1,0 +1,31 @@
+Supported on Unity 5.0 and higher
+###############################
+The Ancient Greek City Pack contains:
+31 game ready Prefabs:
+-ArcSingle
+-ArcDouble
+-ArcQuad
+-Bench
+-Parthenon:
++Base
++Top
+-Pillar
+-PillarBrokenHalf
+-PillarBrokenQuarter
+-StonePaving
+-StonWall
+-SmallGarden
+-StoneStairs
+-StoneFiller
+-Vegetation (12 different plants + 1 easter egg)
+-Statues:
++David
++AthenaStoneSmall
++AthenaGoldLarge
++Nika
+-StatueBase
+###############################
+You can see how I make my assets here:
+https://www.artstation.com/artist/mrfluffy
+and here:
+https://www.youtube.com/channel/UC7SY2wd7aYbw-dMqEtH-Wkw
